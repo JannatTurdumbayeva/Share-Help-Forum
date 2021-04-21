@@ -1,0 +1,6 @@
+Django
+Pillow
+psycopg2-binary
+djangorestframework==3.11.0
+python-decouple
+drf-yasg
